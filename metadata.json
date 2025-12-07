@@ -1,0 +1,5 @@
+{
+  "name": "SmartQueue",
+  "description": "A smart queuing and token management system for clinics and service centers with real-time updates and QR code integration.",
+  "requestFramePermissions": []
+}
